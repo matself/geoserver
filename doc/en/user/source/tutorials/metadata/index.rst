@@ -26,7 +26,7 @@ Content for inspire-theme-label & inspire-theme-ref  :download:`keyword-inspire-
 
 Geonetwork mapping  :download:`metadata-mapping.yaml <files/metadata-mapping.yaml>`
 
-Namespaces for geonetwork mapping :download:`metadata-mapping.yaml <files/metadata-namespaces.yaml>`
+Namespaces for geonetwork mapping :download:`metadata-namespaces.yaml <files/metadata-namespaces.yaml>`
 
 Geonetwork endpoints  :download:`metadata-geonetwork.yaml <files/metadata-geonetwork.yaml>`
 
